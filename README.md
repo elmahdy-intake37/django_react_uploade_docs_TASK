@@ -1,4 +1,4 @@
-#Full-Stack Task Django + React
+# Full-Stack Task Django + React
 ### Register, Login And upload files
 
 >To Make Task work on your localMachine
@@ -21,9 +21,9 @@ http://localhost:8000/admin
 
 http://localhost:8000/api/v1/docs!
 
-#for frontend React
+# for frontend React
 
-##cd app folder
+## cd app folder
 
 >npm install
 >npm start
