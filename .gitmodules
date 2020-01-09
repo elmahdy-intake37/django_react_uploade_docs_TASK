@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/elmahdy-intake37/django_react_uploade_docs_TASK.git
